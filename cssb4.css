@@ -1,0 +1,193 @@
+.container-fluid{
+
+    font-size: 35px;
+    margin-top: 10px;
+    margin-right: 1200px;
+    
+}
+.table{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 22px;
+    margin:0px;
+    border: 1px solid black;
+    border-right: 100px;
+    border-left: 100px;
+    color: black;
+    list-style: none;
+
+}
+.c2{
+    margin-right: 10%;
+    margin-top: 0px;
+    font-size: larger;
+    
+}
+.tr{
+    color: black;
+    border: 1px solid black;
+    list-style: none;
+}
+.table th{
+    color: black;
+    height: 40px;
+    list-style: none;
+    border: 1px solid black;
+    text-align: center;
+    
+    }
+.c3{
+    display: flex;
+    margin-left: 50px;
+    gap: 35px;
+    width: 70%;
+    padding-top: 10px;
+}
+.c4{
+    display: flex;
+    margin-left: 35px;
+    gap: 35px;
+    width: 70%;
+    padding-top: 10px;
+}
+body{
+    background-image: url(h12.jpeg);
+    
+}
+.c5{
+    display:flex;
+    margin-left: 30px;
+    gap: 15px;
+    width: 70%;
+    padding-top: 10px;
+}
+.btn{
+    margin-right: 40%;
+    width: 98%;
+}
+.th a{
+    color: black;
+    margin-right: 20px;
+    position: fixed;
+
+}
+.form-switch.form-check-reverse {
+    padding-right: 20.5rem;
+}
+
+.c7:hover{
+    box-shadow: 5px 5px 5px 5px grey;
+}
+.c8:hover{
+    box-shadow: 5px 5px 5px 5px grey;
+    
+}
+.c9:hover{
+    box-shadow: 5px 5px 5px 5px grey;
+}
+.c10:hover{
+    box-shadow: 5px 5px 5px 5px grey;
+}
+.c11:hover{
+    box-shadow: 5px 5px 5px 5px grey;
+}
+.c12:hover{
+    box-shadow: 5px 5px 5px 5px grey;
+    
+}
+.c13:hover:hover{
+    box-shadow: 5px 5px 5px 5px grey;
+    
+}
+.c14:hover{
+    box-shadow: 5px 5px 5px 5px grey;
+    
+}
+.c15:hover{
+    box-shadow: 5px 5px 5px 5px grey;
+    
+}
+.c16:hover{
+    box-shadow: 5px 5px 5px 5px grey;
+    
+}
+.form-check-input:checked{
+    background-color: rgb(12, 174, 255);
+    border-color:rgb(12, 174, 255);
+}
+.c12{
+    margin-left: 15px;
+}
+.c7 p{
+    padding-top: 10px;
+    font-size: 19px;
+}
+.c10 p{
+    padding-top: 10px;
+    font-size: 18px;
+}
+.c12 p{
+    padding-top: 10px;
+    font-size: 19px;
+}
+.c15 p{
+    padding-top: 10px;
+    font-size: 19px;
+}
+.c13 p{
+    padding-top: 5px;
+    font-size: 18px;
+}
+.c15 p{
+    padding: 0;
+    font-size: 15px;
+}
+.btn{
+    background-color: rgb(10, 128, 32);;
+}
+.c8 p{
+    padding-top: 5px;
+   font-size: 18px;
+}
+.add{
+    padding-top:10px ;
+}
+.c9 p{
+    padding-top: 10px;
+    font-size: 18px;
+    text-align: center;
+}
+.added{
+    padding-top: 68px;
+}
+.adds{
+    padding-top: 45px;
+}
+.adder{
+    padding-top: 40px;
+}
+.adding{
+    padding-top: 65px;
+}
+.addered{
+    padding-top: 70px;
+}
+.c11 p{
+    padding-top: 10px;
+    font-size: 18px;
+}
+a{
+    list-style: none;
+    color: black;
+   }
+   .c11{
+    margin-left: 2.2%;
+   }
+   .c12{
+    margin-left: 1.9%;
+   }
+   
+.pizza:hover{
+    background-color:rgb(219, 12, 12);
+    color: azure;
+ }
+ 
