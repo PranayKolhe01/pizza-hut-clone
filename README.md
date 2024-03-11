@@ -1,1 +1,2 @@
-# Pizza hut clone for desktop view only
+# Pizza-hut-clone 
+pizza hut clone for desktop users only.
