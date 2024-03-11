@@ -1,3 +1,1 @@
-" pizza-hut-clone for desktop users only " 
-<br>
-Author :- Pranay Kolhe
+# Pizza hut clone for desktop view only
